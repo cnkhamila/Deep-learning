@@ -1,2 +1,2 @@
 # Deep-learning
-Ensemble deep learning model to predict images
+Image detection with ensemble deep learning model
